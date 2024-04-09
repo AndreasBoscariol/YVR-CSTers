@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>c14.jpg</filename>
+	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/c14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>2600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1005</xmin>
+			<ymin>994</ymin>
+			<xmax>2049</xmax>
+			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+</annotation>
