@@ -18,5 +18,7 @@ Source code and resources for tackling the challenge of detecting wear-and-tear 
 - Overlaps in bounding boxes are allowed
 - Discard pictures that's hard to annnotate 
 - Check out [this video](https://www.youtube.com/watch?v=v0ssiOY6cfg&t=335s) for full details
+- Furthermore, this video (https://www.youtube.com/watch?v=XZ7FYAMCc4M&ab_channel=EdjeElectronics) expands on the next steps
+- And this final one should lead to the wrap up (https://www.youtube.com/watch?v=aimSGOAUI8Y&ab_channel=EdjeElectronics)
 
 
