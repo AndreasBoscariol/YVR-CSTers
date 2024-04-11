@@ -1,38 +1,26 @@
 <annotation>
 	<folder>images</folder>
-	<filename>11.JPG</filename>
-	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/11.JPG</path>
+	<filename>11.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3024</width>
-		<height>4032</height>
+		<width>2600</width>
+		<height>4624</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Garbage</name>
+		<name>Defect</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1139</xmin>
-			<ymin>2171</ymin>
-			<xmax>1562</xmax>
-			<ymax>2349</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Garbage</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1328</xmin>
-			<ymin>1832</ymin>
-			<xmax>1495</xmax>
-			<ymax>2016</ymax>
+			<xmin>1437</xmin>
+			<ymin>1494</ymin>
+			<xmax>1724</xmax>
+			<ymax>1894</ymax>
 		</bndbox>
 	</object>
 </annotation>

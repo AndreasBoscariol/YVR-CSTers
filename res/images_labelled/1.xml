@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>1.JPG</filename>
-	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/1.JPG</path>
+	<filename>1.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3024</width>
-		<height>4032</height>
+		<width>4624</width>
+		<height>2600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1556</xmin>
-			<ymin>2460</ymin>
-			<xmax>1662</xmax>
-			<ymax>2549</ymax>
+			<xmin>1393</xmin>
+			<ymin>1075</ymin>
+			<xmax>1453</xmax>
+			<ymax>1116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1563</xmin>
+			<ymin>1081</ymin>
+			<xmax>1695</xmax>
+			<ymax>1191</ymax>
 		</bndbox>
 	</object>
 </annotation>

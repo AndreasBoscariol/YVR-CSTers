@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>4.jpg</filename>
-	<path>C:\Users\seren\Desktop\hackathon\images\4.jpg</path>
+	<filename>39.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\39.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Stain</name>
+		<name>Garbage</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3377</xmin>
-			<ymin>691</ymin>
-			<xmax>3587</xmax>
-			<ymax>1350</ymax>
+			<xmin>3606</xmin>
+			<ymin>2097</ymin>
+			<xmax>3836</xmax>
+			<ymax>2275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1959</xmin>
+			<ymin>1640</ymin>
+			<xmax>2095</xmax>
+			<ymax>1699</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2810</xmin>
-			<ymin>840</ymin>
-			<xmax>2916</xmax>
-			<ymax>1081</ymax>
+			<xmin>2163</xmin>
+			<ymin>626</ymin>
+			<xmax>2316</xmax>
+			<ymax>734</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2524</xmin>
-			<ymin>1026</ymin>
-			<xmax>2600</xmax>
-			<ymax>1108</ymax>
+			<xmin>2712</xmin>
+			<ymin>851</ymin>
+			<xmax>2848</xmax>
+			<ymax>1038</ymax>
 		</bndbox>
 	</object>
 </annotation>

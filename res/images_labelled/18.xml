@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>18.jpg</filename>
-	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/18.jpg</path>
+	<path>C:\Users\seren\Desktop\hackathon\images\18.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Stain</name>
+		<name>Defect</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1668</xmin>
-			<ymin>1413</ymin>
-			<xmax>1836</xmax>
-			<ymax>1575</ymax>
+			<xmin>93</xmin>
+			<ymin>961</ymin>
+			<xmax>2228</xmax>
+			<ymax>1373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>1493</ymin>
+			<xmax>306</xmax>
+			<ymax>1602</ymax>
 		</bndbox>
 	</object>
 </annotation>

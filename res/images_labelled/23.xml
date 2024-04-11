@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>20.jpg</filename>
-	<path>C:\Users\seren\Desktop\hackathon\images\20.jpg</path>
+	<filename>23.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\23.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4624</width>
-		<height>2600</height>
+		<width>2600</width>
+		<height>4624</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>765</xmin>
-			<ymin>887</ymin>
-			<xmax>2334</xmax>
-			<ymax>1308</ymax>
+			<xmin>1485</xmin>
+			<ymin>1284</ymin>
+			<xmax>1950</xmax>
+			<ymax>1726</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2859</xmin>
-			<ymin>948</ymin>
-			<xmax>3477</xmax>
-			<ymax>1089</ymax>
+			<xmin>895</xmin>
+			<ymin>1720</ymin>
+			<xmax>1598</xmax>
+			<ymax>2587</ymax>
 		</bndbox>
 	</object>
 </annotation>

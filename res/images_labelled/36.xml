@@ -1,38 +1,38 @@
 <annotation>
 	<folder>images</folder>
-	<filename>20.jpg</filename>
-	<path>C:\Users\seren\Desktop\hackathon\images\20.jpg</path>
+	<filename>36.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\36.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4624</width>
-		<height>2600</height>
+		<width>2600</width>
+		<height>4624</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Defect</name>
+		<name>Stain</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>765</xmin>
-			<ymin>887</ymin>
-			<xmax>2334</xmax>
-			<ymax>1308</ymax>
+			<xmin>605</xmin>
+			<ymin>2826</ymin>
+			<xmax>982</xmax>
+			<ymax>3036</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Defect</name>
+		<name>Stain</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2859</xmin>
-			<ymin>948</ymin>
-			<xmax>3477</xmax>
-			<ymax>1089</ymax>
+			<xmin>824</xmin>
+			<ymin>410</ymin>
+			<xmax>940</xmax>
+			<ymax>681</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>13.jpg</filename>
-	<path>C:\Users\seren\Desktop\hackathon\images\13.jpg</path>
+	<filename>35.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\35.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1675</xmin>
-			<ymin>1393</ymin>
-			<xmax>2089</xmax>
-			<ymax>1679</ymax>
+			<xmin>1451</xmin>
+			<ymin>932</ymin>
+			<xmax>2118</xmax>
+			<ymax>1326</ymax>
 		</bndbox>
 	</object>
 </annotation>

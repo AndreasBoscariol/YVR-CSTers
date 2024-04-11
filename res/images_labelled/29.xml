@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>20.jpg</filename>
-	<path>C:\Users\seren\Desktop\hackathon\images\20.jpg</path>
+	<filename>29.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\29.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>765</xmin>
-			<ymin>887</ymin>
-			<xmax>2334</xmax>
-			<ymax>1308</ymax>
+			<xmin>952</xmin>
+			<ymin>1174</ymin>
+			<xmax>2676</xmax>
+			<ymax>1574</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>Defect</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2859</xmin>
-			<ymin>948</ymin>
-			<xmax>3477</xmax>
-			<ymax>1089</ymax>
+			<xmin>4420</xmin>
+			<ymin>1277</ymin>
+			<xmax>4624</xmax>
+			<ymax>1438</ymax>
 		</bndbox>
 	</object>
 </annotation>

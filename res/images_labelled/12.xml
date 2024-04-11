@@ -1,38 +1,74 @@
 <annotation>
 	<folder>images</folder>
-	<filename>12.JPG</filename>
-	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/12.JPG</path>
+	<filename>12.jpg</filename>
+	<path>C:\Users\seren\Desktop\hackathon\images\12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3024</width>
-		<height>4032</height>
+		<width>2600</width>
+		<height>4624</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Garbage</name>
+		<name>Stain</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1528</xmin>
-			<ymin>1999</ymin>
-			<xmax>1684</xmax>
-			<ymax>2143</ymax>
+			<xmin>184</xmin>
+			<ymin>1565</ymin>
+			<xmax>294</xmax>
+			<ymax>1649</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Garbage</name>
+		<name>Stain</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1289</xmin>
-			<ymin>2310</ymin>
-			<xmax>1678</xmax>
-			<ymax>2466</ymax>
+			<xmin>734</xmin>
+			<ymin>1776</ymin>
+			<xmax>972</xmax>
+			<ymax>2052</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>790</xmin>
+			<ymin>2694</ymin>
+			<xmax>1187</xmax>
+			<ymax>2776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1563</xmin>
+			<ymin>2741</ymin>
+			<xmax>1614</xmax>
+			<ymax>2779</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1203</xmin>
+			<ymin>2669</ymin>
+			<xmax>1427</xmax>
+			<ymax>2707</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>3.jpg</filename>
-	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/3.jpg</path>
+	<path>C:\Users\seren\Desktop\hackathon\images\3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4624</width>
-		<height>2600</height>
+		<width>2600</width>
+		<height>4624</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>993</xmin>
-			<ymin>625</ymin>
-			<xmax>2080</xmax>
-			<ymax>888</ymax>
+			<xmin>958</xmin>
+			<ymin>2104</ymin>
+			<xmax>1253</xmax>
+			<ymax>2355</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1230</xmin>
-			<ymin>1094</ymin>
-			<xmax>3161</xmax>
-			<ymax>1369</ymax>
+			<xmin>1563</xmin>
+			<ymin>461</ymin>
+			<xmax>1641</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1971</xmin>
+			<ymin>822</ymin>
+			<xmax>2136</xmax>
+			<ymax>997</ymax>
 		</bndbox>
 	</object>
 </annotation>
