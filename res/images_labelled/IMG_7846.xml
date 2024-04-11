@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_7846.JPG</filename>
+	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/IMG_7846.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>2381</ymin>
+			<xmax>1569</xmax>
+			<ymax>2465</ymax>
+		</bndbox>
+	</object>
+</annotation>

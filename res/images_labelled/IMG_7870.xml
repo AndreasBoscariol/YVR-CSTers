@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_7870.JPG</filename>
+	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/IMG_7870.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1374</xmin>
+			<ymin>1365</ymin>
+			<xmax>1532</xmax>
+			<ymax>1518</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20240407_142910.jpg</filename>
+	<path>/Users/joeycherisea/Desktop/etc/YVR/YVR-CSTers/res/images/20240407_142910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2252</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>1452</ymin>
+			<xmax>1598</xmax>
+			<ymax>2387</ymax>
+		</bndbox>
+	</object>
+</annotation>
