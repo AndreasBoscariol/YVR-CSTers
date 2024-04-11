@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20240410_144405.jpg</filename>
+	<path>/Users/joeycherisea/Desktop/Etc/YVR/YVR-CSTers/res/images/20240410_144405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2252</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>998</xmin>
+			<ymin>1812</ymin>
+			<xmax>1178</xmax>
+			<ymax>2262</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20240410_144356.jpg</filename>
+	<path>/Users/joeycherisea/Desktop/Etc/YVR/YVR-CSTers/res/images/20240410_144356.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2252</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>1462</ymin>
+			<xmax>1378</xmax>
+			<ymax>1872</ymax>
+		</bndbox>
+	</object>
+</annotation>
